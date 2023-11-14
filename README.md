@@ -1,31 +1,28 @@
+# File description: 
+- Project folder data file ( Source).
+- Video demo (Video demo play SunnyLandGamePlay.mp4).
+- Note file ( README.md).
 # SunnyLandGame
-# PHP_DemoResort
-Viết một đoạn giới thiệu ngắn hai hoặc ba dòng giải thích dự án của bạn làm gì và dự án đó dành cho ai. Ngoài ra, hãy bỏ các tiêu đề như 'Giới thiệu', 'Tóm tắt' hoặc 'Tổng quan' - rõ ràng đây là phần giới thiệu.
-## Các chức năng chính:
-- a
-- b
-- c
-## Điều kiện tiên quyết:
-Ngay sau phần giới thiệu của bạn, hãy thêm một phần có tiêu đề liệt kê bất kỳ kiến thức hoặc công cụ tiên quyết nào mà bất kỳ ai muốn sử dụng dự án có thể cần trước khi bắt đầu. Ví dụ: nếu nó chạy trên phiên bản Python mới nhất, hãy bảo họ cài đặt Python. Đây là một ví dụ:
-> `Prerequisites`
-> Before you continue, ensure you meet the following requirements:
-> * You have installed the latest version of Ruby.
-> * You are using a Linux or Mac OS machine. Windows is not currently supported.
-> * You have a basic understanding of graph theory.
-## Cách cài đặt:
-Cung cấp các bước cài đặt! Thật đáng ngạc nhiên khi có nhiều dự án t đã dùng qua chỉ cung cấp các hướng dẫn sử dụng cơ bản và họ mong bạn sẽ biết cách cài đặt nó một cách thần kỳ nào đó. Đảm bảo chia phần cài đặt thành các bước được đánh số nếu nó yêu cầu nhiều bước.
-- b1
-- b2
-- b3
-## Một số đoạn code:
-```php
-session.start()
-```
-## Thêm contributors:
-Điền tên bất kỳ contributor nào đã có nhiều đóng góp cho dự án vào mục tác giả. Đó là một cách hay để làm cho dự án nguồn mở được cảm thấy như một nỗ lực của cả nhóm và thừa nhận sự đóng góp của tất cả những người đã dành thời gian để đóng góp.
-## Một số hình ảnh minh họa:
-![](https://cdn.popsww.com/blog/sites/2/2022/12/top-anime-nam-dep.jpg)https://cdn.popsww.com/blog/sites/2/2022/12/top-anime-nam-dep.jpg)
-## Thông tin liên lạc:
-- a
-- b
-- c
+This is a resort management project write by Java JSP Servlet code style with MySQl for database , with the purpose of helping users as well as managers and employees to grasp the list and basic information about the , view personal information, booking schedules,... with other functions corresponding to the permissions of the access account.
+## Main function:
+- Log in, log out and register an account.
+- CRUD in the list.
+- Search for information in the displayed list.
+## Prerequisites:
+> Before continuing, make sure you meet the following requirements:
+> * You have installed Eclipse IDE for Enterprise Java and Web Developers and MySQL.
+> * You have downloaded support library: JRE System Library ( project JRE is JavaSE-16), Maven Dependencies and Server Runtime ( project server is apache-tomcat 9.0.65).
+## How to install the project ?
+***Download project***
+- Step 1: Download the project to your computer.
+- Step 2: Unzip the project to a folder where the file you want to add.
+  
+***Project launch***
+- Step 1: Open the Eclipse application.
+- Step 2: Add project in to Eclipse.
+- Step 3: Click in project folder.
+- Step 4: Open .jsp file and run it on server, example path: `src/main/webapp/home.jsp `
+## Find me here:
+- Contact with Gmail: `hotranquochuy0306@gmail.com`
+- Github: [https://github.com/HoTranQuocHuy020603](https://github.com/HoTranQuocHuy020603/)
+
