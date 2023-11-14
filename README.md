@@ -3,15 +3,16 @@
 - Video demo (Video demo play SunnyLandGamePlay.mp4).
 - Note file ( README.md).
 # SunnyLandGame
-This is a resort management project write by Java JSP Servlet code style with MySQl for database , with the purpose of helping users as well as managers and employees to grasp the list and basic information about the , view personal information, booking schedules,... with other functions corresponding to the permissions of the access account.
-## Main function:
-- Log in, log out and register an account.
-- CRUD in the list.
-- Search for information in the displayed list.
+This is a game project written in unity. SunnyLandGame is a 2D game that replays from the beginning when the player dies, earns points and passes the level until the end.
+## Game screen:
+-  Lv 1 -> TheEnd : Level of the game.
+-  MainMenu: The main screen of the game when starting , has buttons such as start (launch level 1), options (instructions) and story (plot).
+-  OptionMenu: Game instructions screen.
+-  Story: Plot of the game.
 ## Prerequisites:
 > Before continuing, make sure you meet the following requirements:
-> * You have installed Eclipse IDE for Enterprise Java and Web Developers and MySQL.
-> * You have downloaded support library: JRE System Library ( project JRE is JavaSE-16), Maven Dependencies and Server Runtime ( project server is apache-tomcat 9.0.65).
+> * You have installed Unity and Visual Studio Code.
+> * You have downloaded version of Unity: 
 ## How to install the project ?
 ***Download project***
 - Step 1: Download the project to your computer.
