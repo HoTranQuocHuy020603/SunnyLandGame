@@ -4,7 +4,7 @@
 - Unity version ( Unity 2020.3.22f1 (64-bit).lnk).
 - Note file ( README.md).
 # SunnyLandGame
-This is a game project written in unity. SunnyLandGame is a 2D game that replays from the beginning when the player dies, earns points and passes the level until the end.
+This is a game project written in unity. SunnyLandGame is a 2D game that replays from the beginning when the player dies, earns points and passes the level until the end. Can't select level.
 ## Game screen:
 -  Lv 1 -> TheEnd : Level of the game.
 -  MainMenu: The main screen of the game when starting , has buttons such as start (launch level 1), options (instructions) and story (plot).
